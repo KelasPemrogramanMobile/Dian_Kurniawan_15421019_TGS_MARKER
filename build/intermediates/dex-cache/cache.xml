@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dhyan Kurniawan\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.3.2\90a3822c38ec8c996e84c16a3477ef632cbc87a3\commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="E:\baru andro\Tugas_Maps\app\build\intermediates\pre-dexed\debug\commons-lang3-3.3.2_4ff6e0f6b1ab1095eb79b68066b17a54e222ff18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dhyan Kurniawan\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\baru andro\Tugas_Maps\app\build\intermediates\pre-dexed\debug\okio-1.9.0_49806bb2cae76af17647ee3e24e33c2b6f7be2d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dhyan Kurniawan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\baru andro\Tugas_Maps\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_6f5b42f3e8c4358349aa0ae1f3976b8b37833bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dhyan Kurniawan\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\baru andro\Tugas_Maps\app\build\intermediates\pre-dexed\debug\gson-2.7_c5eb114181a3cdd8a532dc88f03f2151df77c481.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dhyan Kurniawan\.android\build-cache\f3a21ce869847262ec181ace9ff8114c12e7556d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b325ed66dffa4ffd6e733cb452986bb3159d756">
+        <dex dex="E:\baru andro\Tugas_Maps\app\build\intermediates\pre-dexed\debug\classes_2c70b8797df7a81b760f6ec4bbd4ed9e3b069999.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dhyan Kurniawan\.android\build-cache\e577e246fc6349ed9091cddd143d39ff7d9617ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba8b17f4d98f070709474217bff78f6aa11391d8">
+        <dex dex="E:\baru andro\Tugas_Maps\app\build\intermediates\pre-dexed\debug\classes_adf650b408982575f31476b07aec52b79bc1815e.jar" />
+    </item>
+
+</items>
